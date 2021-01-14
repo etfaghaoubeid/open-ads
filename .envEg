@@ -1,6 +1,6 @@
 PORT = 3333
 DATABASE_USERNAME = postgres
 HOST=localhost
-DATABASE_NAME = crud_api
+DATABASE_NAME = reddit
 PASSWORD = atigh33635471
 DB_PRT= 5433
