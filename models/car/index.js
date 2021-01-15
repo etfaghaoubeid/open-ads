@@ -40,8 +40,7 @@ const Car = db.define('cars', {
         allowNull: false
     },
     description: {
-        type: DataTypes.STRING,
-        allowNull: false
+        type: DataTypes.TEXT,
     }
 });
 module.exports = Car;

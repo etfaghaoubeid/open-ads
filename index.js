@@ -4,7 +4,8 @@ const sequelize = require('./utils/db');
 const app = express();
 app.use(express.json());
 // app.use('/users', require('./routes/users'));
-app.use('/api/products',require('./routes/products'))
+app.use('/api/products', require('./routes/products'));
+app.use('/api/cars', require('./routes/car'));
 
 const PORT = process.env.PORT|| 3333
 console.log('hello'); 
