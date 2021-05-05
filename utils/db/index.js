@@ -1,4 +1,5 @@
 const { Sequelize } = require('sequelize');
+// connection 
 
 const sequelize = new Sequelize(
     process.env.DATABASE_NAME,
