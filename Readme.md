@@ -4,4 +4,4 @@ Postgres
 Sql
 Swuelize
 ORM
-JavaScript 
+JavaScript.
