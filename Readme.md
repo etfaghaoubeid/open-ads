@@ -3,5 +3,5 @@ Docker
 Postgres
 Sql
 Swuelize
-ORM
+ORM.
 JavaScript.
